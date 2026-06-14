@@ -65,6 +65,3 @@ npm run dev
 - Giden E-postaları Görme (MailHog): `http://localhost:8025`
 - Backend API: `http://localhost:8080`
 - RabbitMQ Yönetim Paneli: `http://localhost:15672`
-
-## Lisans
-MIT
